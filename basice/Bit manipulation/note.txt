@@ -1,0 +1,9 @@
+left shift n<<i and right shift n>>i
+
+2<<1 --> 0101<<1 --> 100 left shift
+2>>1 --> 0101>>1 --> 001 right shift
+bit mask opration  
+1.get
+2.set
+3.clear
+4.update

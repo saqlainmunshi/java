@@ -1,0 +1,1 @@
+java has built in fucntion to sort array that is --> Arrays.sort(array_name); but still we need to learn this technique bex the logic of this can be used some where else 
